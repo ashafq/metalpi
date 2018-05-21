@@ -117,5 +117,16 @@ Session.vim
 # auto-generated tag files
 tags
 
+### C ###
+
+# Object files
+*.o
+*.elf
+
+# Linker output
+*.map
+
+# Binary files
+*.img
 
 # End of https://www.gitignore.io/api/vim,code,emacs,sublimetext
